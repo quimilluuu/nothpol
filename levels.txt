@@ -84,7 +84,7 @@ Solution: isthatpol ->
 
 21:
 Barcode
-Solution: -> 
+Solution: -> partytime
 
 22:
 Chessboard
